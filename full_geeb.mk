@@ -24,7 +24,7 @@ PRODUCT_DEVICE := geeb
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := Optimus G
 PRODUCT_MANUFACTURER := LGE
-PRODUCT_RESTRICT_VENDOR_FILES := true
+PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # Inherit from hardware-specific part of the product configuration
 $(call inherit-product, device/lge/geeb/device.mk)
