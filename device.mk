@@ -37,6 +37,6 @@ PRODUCT_COPY_FILES += \
 
 # Telephony Properties
 PRODUCT_PROPERTY_OVERRIDES += \
-    telephony.lteOnGsmDevice=1 \
+    telephony.lteOnCdmaDevice=1 \
     ro.telephony.default_network=9 \
     ro.ril.def.preferred.network=9
