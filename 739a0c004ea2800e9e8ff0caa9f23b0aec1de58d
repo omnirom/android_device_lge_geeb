@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ab89d9a9_ed5f6ce5",
+        "filename": "omni.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000032
+      },
+      "writtenOn": "2013-11-20T00:29:36Z",
+      "side": 1,
+      "message": "We don\u0027t put blob trees in dependencies. Legal grey area. :-P",
+      "revId": "739a0c004ea2800e9e8ff0caa9f23b0aec1de58d",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
